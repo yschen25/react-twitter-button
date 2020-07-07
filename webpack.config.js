@@ -6,13 +6,22 @@ const pkg = require('./package.json');
 const config = {
     module: {
         rules: [
-            { test: /\.js|\.jsx$/, loaders: ['babel-loader'], exclude: [/node_modules/] },
+            {
+                test: /\.(js|jsx)$/,
+                exclude: /node_modules/,
+                use: {
+                    loader: 'babel-loader',
+                    options: {
+                        babelrc : true
+                    }
+                }
+            },
         ]
     },
     entry: './src/index.js',
     plugins: [
         new webpack.BannerPlugin({
-            banner: 'react-google-button.js v' + pkg.version + ' | (c) prescottprue',
+            banner: 'react-google-button.js v' + pkg.version + ' | (c) yschen25',
             raw: false,
             entryOnly: true
         })

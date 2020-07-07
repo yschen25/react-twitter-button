@@ -170,6 +170,10 @@ Welcome to issues and pull requests on https://github.com/yschen25/react-twitter
 
 - Change image to base64
 
+#### version 1.0.5
+
+- Change description
+
 ## Thanks
 
 - [Iconfinder](https://www.iconfinder.com/)

@@ -1,7 +1,7 @@
 {
   "name": "react-twitter-button",
-  "version": "1.0.4",
-  "description": "",
+  "version": "1.0.5",
+  "description": "React button for twitter, you can choose different kinds of icons and custom buttons.",
   "main": "dist/react-twitter-button.js",
   "scripts": {
     "build:umd": "cross-env BABEL_ENV=commonjs NODE_ENV=development webpack --mode=development",
