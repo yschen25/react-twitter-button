@@ -2,6 +2,8 @@
 
 A simple way to create your own twitter buttons with react.
 
+[Live Demo](https://codesandbox.io/s/quizzical-mountain-lr0r3?file=/src/App.js)
+
 <img src="https://i.imgur.com/J9h8YRI.png" />
 
 
@@ -173,6 +175,12 @@ Welcome to issues and pull requests on https://github.com/yschen25/react-twitter
 #### version 1.0.5
 
 - Change description
+
+#### version 1.0.6
+
+- Change bird-circle img and add live demo
+
+
 
 ## Thanks
 
