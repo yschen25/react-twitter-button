@@ -184,6 +184,10 @@ Welcome to issues and pull requests on https://github.com/yschen25/react-twitter
 
 - Fix test
 
+#### version 1.0.8 and 1.0.9
+
+- Modified config
+
 ## Thanks
 
 - [Iconfinder](https://www.iconfinder.com/)

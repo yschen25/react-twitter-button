@@ -21,7 +21,7 @@ const config = {
     entry: './src/index.js',
     plugins: [
         new webpack.BannerPlugin({
-            banner: 'react-google-button.js v' + pkg.version + ' | (c) yschen25',
+            banner: 'react-twitter-button.js v' + pkg.version + ' | (c) yschen25',
             raw: false,
             entryOnly: true
         })
