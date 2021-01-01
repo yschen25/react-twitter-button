@@ -13,7 +13,8 @@ export const btnBaseStyle = {
     'transition': '.1s',
     'position': 'relative',
     'textAlign': 'right',
-    'boxShadow': '4px 4px 0 rgb(5, 129, 177)'
+    'boxShadow': '4px 4px 0 rgb(5, 129, 177)',
+    'width' : '250px'
 };
 
 export const IconStyle = {
