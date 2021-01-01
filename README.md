@@ -180,7 +180,13 @@ Welcome to issues and pull requests on https://github.com/yschen25/react-twitter
 
 - Change bird-circle img and add live demo
 
+#### version 1.0.7
 
+- Fix test
+
+#### version 1.0.8 and 1.0.9
+
+- Modified config
 
 ## Thanks
 

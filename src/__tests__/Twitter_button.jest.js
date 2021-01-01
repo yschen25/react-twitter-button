@@ -1,8 +1,6 @@
 import React from 'react';
 import { render, fireEvent } from '@testing-library/react';
 import { toBeInTheDocument } from '@testing-library/jest-dom';
-
-Enzyme.configure({adapter: new Adapter()});
 import TwitterButton from '../index';
 import {
     BirdCasualIconStyle,
